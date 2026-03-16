@@ -1,0 +1,28 @@
+{
+  "siteTitle": "Leather Bags for Women: We're women that love our leather",
+  "siteDescription": "We love shopping, but on a budget and for super high quality bags. Read our stories!",
+  "siteUrl": "https://leatherbagsforwomen.com",
+  "generatedAt": "2026-03-16T21:44:13.401Z",
+  "articles": [],
+  "categories": [
+    {
+      "slug": "crossbody-bags",
+      "label": "Crossbody Bags",
+      "url": "https://leatherbagsforwomen.com/crossbody-bags"
+    },
+    {
+      "slug": "tote-bags",
+      "label": "Tote Bags",
+      "url": "https://leatherbagsforwomen.com/tote-bags"
+    },
+    {
+      "slug": "sling-bags",
+      "label": "Sling Bags",
+      "url": "https://leatherbagsforwomen.com/sling-bags"
+    }
+  ],
+  "_instructions": [
+    "This file is a reference for all SEO metadata in the generated site.",
+    "To update SEO, edit the articles.ts file and regenerate."
+  ]
+}
